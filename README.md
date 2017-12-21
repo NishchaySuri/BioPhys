@@ -1,2 +1,2 @@
 # BioPhys
-Please read the Doc.pdf for Documentation
+Please read the file Doc.pdf for Documentation
